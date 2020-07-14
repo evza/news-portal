@@ -1,0 +1,21 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    background-color: #9c5f42;
+    width: 97.2%;
+    margin: auto;
+    border-radius: 15px;
+}
+
+li {
+    list-style: none;
+    padding: 0.8%;
+}
+
+a {
+    font-size: 1.5em;
+    color: #f3f9bf;
+    text-shadow: 1px 1px #989881;
+    text-decoration: none;
+}

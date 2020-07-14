@@ -1,0 +1,20 @@
+.frame {
+    width: 400px;
+    height: 300px;
+    border: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+.wrap-photos {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding-top: 30px;
+}
+
+.frame img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
